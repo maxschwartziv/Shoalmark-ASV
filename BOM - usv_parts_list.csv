@@ -1,0 +1,43 @@
+Category,Item,Qty,Unit Price (USD),Line Total (USD),Source,Link,Notes
+Sonar,Humminbird HELIX 7 CHIRP MEGA SI GPS G4 fish finder (transducer included),1,715,715,Amazon,https://www.amazon.com/dp/B0CG6P1TD5,ASIN B0CG6P1TD5; model 411930-1
+Hull,"Freein inflatable bodyboard, 40"" x 21"" x 4""",1,80,80,Amazon,https://www.amazon.com/dp/B0F1C778M2,ASIN B0F1C778M2; hull/float platform
+Frame,"Charlotte Pipe 1/2"" x 10 ft CPVC SDR11 pipe, plain end",1,10,10,Home Depot,https://www.homedepot.com/p/Charlotte-Pipe-1-2-In-X-10-Ft-CPVC-SDR11-Pipe-Plain-End-Corrosion-Resistant-for-Hot-and-Cold-Water-Distribution-CTS-12005-0600/100170202,0.625 in OD / 0.485 in ID / 0.068 in wall
+Frame,1 in. x 2 in. x 8 ft. Furring Strip Board,1,1,1,Home Depot,https://www.homedepot.com/p/1-in-x-2-in-x-8-ft-Furring-Strip-Board-160954/100009348,"Actual Product Thickness (in.) 0.75 in, "
+Propulsion,"APISQUEEN underwater thruster, CCW, 1.3 kg thrust",1,65,65,Amazon,https://www.amazon.com/dp/B0C74CMXR9?lv=shuf&channelId=500&plpRedirect=mhFallback&th=1,"ASIN B0C74CMXR9; 12-16V (3-4S), 8A max, 130W, 210 g"
+Propulsion,"APISQUEEN underwater thruster, CW, 1.3 kg thrust",1,65,65,Amazon,https://www.amazon.com/dp/B0C74DFDYW,ASIN B0C74DFDYW; counter-rotating pair with above
+Control,Pixhawk PX4 2.4.8 flight controller kit,1,220,220,Amazon,https://www.amazon.com/Controller-Wireless-Telemetry-Quadcopter-Multirotor/dp/B07NRMFTXL,"ASIN B07NRMFTXL; incl. NEO-M8N GPS, 433 MHz telemetry pair, power module, PPM, mini OSD, safety switch, buzzer, I2C splitter"
+Control,HotRC transmitter + F-06A receiver set,1,30,30,Amazon,https://www.amazon.com/dp/B09Y8XT53X,ASIN B09Y8XT53X
+Power,"Akiisolo AK015 LiFePO4 battery, 12.8V 15Ah (192Wh) + charger",1,40,40,Amazon,https://www.amazon.com/dp/B0DLP6HWR5,ASIN B0DLP6HWR5; 20A continuous / 30A peak
+Power,XT60H connector pairs (male/female),1,12,12,Amazon,https://www.amazon.com/dp/B0DPBP1N59,ASIN B0DPBP1N59
+Power,2pcs XT60 Parallel Battery Connector Extension Y Splitter 3-Way (1Male to 3Female),1,10,10,amazon,https://www.amazon.com/ATNSINC-Parallel-Connector-Extension-Splitter/dp/B0FWBMPTS4/ref=sr_1_18?crid=21S2Q05K6FBBC&dib=eyJ2IjoiMSJ9.-gURMTqNClZbvt-yyuOxhnAGnx0uu4KmABP-MsgJbYmjgmqqYE2necybV_YnYBMf9JTvmK7-JTmjNc4CK_MnxSBWNCnkFQ6fN_2B7kFgPYlET7qhZXGKCf6kOPWOslD_w43EQTd_0n6fkgNimEvEO9aj0UmRB3xqHlKthVjabLEHiElULvOW8M8hJfaArM1rE_GE-xHmRMVBgzVeU32LOzeBmHXiIvaWCtNU8KXpOCx9OfPn1BgLCg2CMUmj-yIz3onAg68kl-kQaaRciO1NKCPf9Ao1064QUwiFAuhfjtw.Za56zgOVwaETWVL4tyUzhM8Izj1yVeNUsYodQw8dfpM&dib_tag=se&keywords=xt60%2Bsplitter&qid=1788024247&s=industrial&sprefix=xt60%2Bsplitter%2Cindustrial%2C223&sr=1-18&th=1,
+Power,"Duplex marine wire, 16 AWG / 2-conductor",1,23,23,Amazon,https://www.amazon.com/dp/B0FMK5YLB9,"ASIN B0FMK5YLB9; tinned copper, red/black"
+Enclosure,IP-rated enclosure with clear hinged lid,1,70,70,Amazon,https://www.amazon.com/dp/B09324TNT7,ASIN B09324TNT7; electronics box
+Enclosure,"Cable glands / bulkhead cord grips, 6-pack",1,10,10,Amazon,https://www.amazon.com/dp/B0DKXHWSVX,"ASIN B0DKXHWSVX; slotted, for pass-through wiring"
+Fasteners,"Hanglife M4 heat-set threaded inserts, M4 x D6 x L6, 100 pcs",1,10,10,Amazon,https://www.amazon.com/dp/B0CS6XGMFD,ASIN B0CS6XGMFD; price read off the listing screenshot in the source doc
+Fasteners,"SVLING M4 x 12 mm socket cap screws, SS304 DIN 912, 200 pcs",1,10,10,Amazon,https://www.amazon.com/dp/B0GHNKNBMP,ASIN B0GHNKNBMP; includes hex key
+Fasteners,"TICONN 100 Pcs Nylon Spade Connector Kit, Insulated Crimp Wire Connectors",1,10,10,Amazon,https://www.amazon.com/TICONN-Disconnect-Connectors-Electrical-Assortment/dp/B08BZ972B5/ref=sr_1_1_sspa?crid=2XG6JZ9XKPGJP&dib=eyJ2IjoiMSJ9.CVvdo6EF7ze2R0AkzW28r1ESMiHiYsmZG-Erg1a38139ihmsXnwAYgWjwIyHreDe-qD6y9EZb6GjEqPnBiuXLPi9JYYIz3I59SxsY_x9t-bKeEqjKNDAKnTbWyTDzhHqz1u2En_JtOo8QAClv1Hp0GWAyDH0NsFNd-rK_mt92UhbvdigHLrdmr7cWaM66wAdsNbrC6qgBZ5Disq6s4Du_Wu3Ogz-AZ23UBOZ-BwbsBqtBfJJ1BFs3241qkL--8fsvHYbmtRL_9TY-HD1jX6FHxn4fU1LLs3WOJBlvz_s1xU.7fbBCRDddgXklUEUdmKvKWvenoJWy0rdXXg4zIx0ljg&dib_tag=se&keywords=spade%2Bconnector&qid=1788023094&s=industrial&sprefix=spade%2Bconnector%2Cindustrial%2C131&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1,
+Adhesives & Sealing,"GE Advanced Silicone 2 sealant, clear, window & door",1,8,8,Amazon,https://www.amazon.com/dp/B0C9VT9KD2,"ASIN B0C9VT9KD2; 100% waterproof, not paintable"
+Adhesives & Sealing,IXR Pro CA glue set (thin/medium/thick) + FX616 accelerator,1,15,15,Amazon,https://www.amazon.com/dp/B0D1DFSDMW,"ASIN B0D1DFSDMW; 500 ml accelerator, applicator tips included"
+Ground Station,HOTWAV rugged Android 14 tablet,1,209,209,Amazon,https://www.amazon.com/dp/B0DK99XX8F,ASIN B0DK99XX8F; QGroundControl host
+Ground Station,USB4 40 Gbps USB-C adapter,1,10,10,Amazon,https://www.amazon.com/dp/B0BN3LKKPQ,ASIN B0BN3LKKPQ
+Printed Parts,PETG filament for printed parts (152.13 g / 49.80 m),1,4.56,4.56,In-house,,"Cost, mass and 11h05m print time from the Creality slicer G-code preview in the source doc"
+Printed Parts,pvc_ring_half_clamp (printed),18,0,0,In-house,,connector_parts.scad; filament cost carried on the row above
+Printed Parts,pvc_to_box_bracket (printed),4,0,0,In-house,,connector_parts.scad; filament cost carried above
+Printed Parts,horizontal_to_vertical (printed),1,0,0,In-house,,connector_parts.scad; filament cost carried above
+Printed Parts,horizontal_to_vertical_receiver (printed),6,0,0,In-house,,connector_parts.scad; filament cost carried above
+Printed Parts,thruster_to_pvc (printed),2,0,0,In-house,,connector_parts.scad; filament cost carried above
+,,,,,,,
+,GRAND TOTAL,,,1627.56,,,
+,,,,,,,
+SUBTOTALS BY CATEGORY,,,,,,,
+Sonar,,,,715,,,
+Hull,,,,80,,,
+Frame,,,,11,,,
+Propulsion,,,,130,,,
+Control,,,,250,,,
+Power,,,,85,,,
+Enclosure,,,,80,,,
+Fasteners,,,,30,,,
+Adhesives & Sealing,,,,23,,,
+Ground Station,,,,219,,,
+Printed Parts,,,,4.56,,,
