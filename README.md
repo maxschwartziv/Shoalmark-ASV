@@ -1,5 +1,3 @@
-[My website Build Page](https://www.droneboatfleet.com/shoalmark-asv)
-
 [3d print Instructions.pdf](https://github.com/user-attachments/files/32030344/3d.print.Instructions.pdf)
 
 Parts can be printed 4 ways:
