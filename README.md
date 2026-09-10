@@ -1,6 +1,17 @@
-[3d print Instructions.pdf](https://github.com/user-attachments/files/32030344/3d.print.Instructions.pdf)
+**[3d print Instructions.pdf](https://github.com/user-attachments/files/32030344/3d.print.Instructions.pdf)**
 
-Parts can be printed 4 ways:
+pvc_ring_half_clamp 18x	
+
+pvc_to_box_bracket 	4x
+
+horizontal_to_vertical 1x
+
+horizontal_to_vertical_receiver 6x
+
+thruster_to_pvc	2x
+
+
+**Parts can be printed 4 ways:**
 
 On a creality machine with All_Parts.3mf
 
@@ -9,7 +20,7 @@ Place individual .3mf files
 Generate/modify parts with openscad, connector_parts.scad
 
 
-[My website Build Page](https://www.droneboatfleet.com/shoalmark-asv)
+**[My website Build Page](https://www.droneboatfleet.com/shoalmark-asv)**
 
 
 <img width="1920" height="1080" alt="shoalmark3" src="https://github.com/user-attachments/assets/b478760f-34fb-40d9-9cb1-7db07793a65c" />
